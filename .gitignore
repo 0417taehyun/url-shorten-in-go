@@ -1,0 +1,11 @@
+# GoLand
+.idea
+
+# Visual Studio Code
+.vscode
+
+# Mac OS
+.DS_Store
+
+# Artifact
+url-shorten-in-go
